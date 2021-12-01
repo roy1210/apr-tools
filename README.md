@@ -1,6 +1,6 @@
 <h1 align="center"> APR tools </h1>
 
-<p> tools for convert between APR and APY </p>
+<p> tools to convert between APR and APY </p>
 
 <h3> Demo </h3>
 
